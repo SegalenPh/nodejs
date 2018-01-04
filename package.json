@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "tet",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
